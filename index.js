@@ -615,7 +615,7 @@ client.on('messageCreate',  (message) => {
 
 
 
-client.login("MTE0ODA1MDcyNzgyMjk2Mjc5OA.GJMGMJ.i7rIlm6lID1CIWbua2iCkZJn3ZLIK0ku-ZKgC4");
+client.login("codigo");
 
 
 
